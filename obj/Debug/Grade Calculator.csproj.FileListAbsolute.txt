@@ -1,0 +1,10 @@
+G:\作业\C#\P6\Grade Calculator\bin\Debug\Grade Calculator.exe.config
+G:\作业\C#\P6\Grade Calculator\bin\Debug\Grade Calculator.exe
+G:\作业\C#\P6\Grade Calculator\bin\Debug\Grade Calculator.pdb
+G:\作业\C#\P6\Grade Calculator\obj\Debug\Grade Calculator.csprojAssemblyReference.cache
+G:\作业\C#\P6\Grade Calculator\obj\Debug\Grade_Calculator.Form1.resources
+G:\作业\C#\P6\Grade Calculator\obj\Debug\Grade_Calculator.Properties.Resources.resources
+G:\作业\C#\P6\Grade Calculator\obj\Debug\Grade Calculator.csproj.GenerateResource.cache
+G:\作业\C#\P6\Grade Calculator\obj\Debug\Grade Calculator.csproj.CoreCompileInputs.cache
+G:\作业\C#\P6\Grade Calculator\obj\Debug\Grade Calculator.exe
+G:\作业\C#\P6\Grade Calculator\obj\Debug\Grade Calculator.pdb
